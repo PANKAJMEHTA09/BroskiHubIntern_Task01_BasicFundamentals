@@ -20,7 +20,7 @@ checks input number is Even or ODD.
 - Git & GitHub for version control
 
 ---
-
+Output of ScreenShot => https://github.com/PANKAJMEHTA09/BroskiHubIntern_Task01_BasicFundamentals/blob/main/TASK01.png
 
 ## 🚀 How to Run the Program
 1. **Clone the repository**:
